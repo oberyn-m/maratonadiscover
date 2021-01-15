@@ -1,2 +1,0 @@
-# maratonadiscover
-Maratona Discover
