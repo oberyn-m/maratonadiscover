@@ -16,6 +16,7 @@ Este site foi constrúido com:
 
 * [HTML]
 * [CSS]
+* [JAVASCRIPT]
 
 ## ✒️ Autor
 
